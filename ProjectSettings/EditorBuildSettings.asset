@@ -6,11 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/LandingPage.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/FirstAidScene.unity
+    guid: 7f263ba8aadc9e34c8fc9b63c21e5d14
+  - enabled: 1
+    path: Assets/Scenes/MemoryCardGame.unity
+    guid: 2c0b8f4ac00c2424a9661f97ed1ecb37
+  - enabled: 1
     path: Assets/Scenes/MainMenu.unity
     guid: 33331af1d761ad94abc9e55d13808cc4
-  - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: a26bc314c78ae3f49b60a0815d012227,
       type: 2}
