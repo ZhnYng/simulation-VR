@@ -1,5 +1,11 @@
 # Mind Palace by Beyond Infinity
 
+A VR Application aims to empower the public with vital skills through immersive lessons and realistic simulations, fostering knowledge and confidence to improve societal efficiency. Hands-on learning experiences aim to create a more prepared and resilient community.
+
+## Device Required
+1. Laptop that is able to run Unity
+2. Meta Quest 3
+
 ## User Guide :)
 1. Install Unity (if you have not)
 2. Install git into your laptop
