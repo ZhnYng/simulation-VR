@@ -18,5 +18,5 @@
 8. Candies Sprite - ONE MAN LAB
 
 ## Online Youtube Resources that we have referred to
-Unity Change Scene with Button - Easiest Method by Unitips
-Learn Unity while Making a Game - Memory Game Beginner Project - Code and Assets Link Description by Mr. Kaiser
+1. Unity Change Scene with Button - Easiest Method by Unitips
+2. Learn Unity while Making a Game - Memory Game Beginner Project - Code and Assets Link Description by Mr. Kaiser
