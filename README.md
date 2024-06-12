@@ -2,7 +2,7 @@
 
 A VR Application aims to empower the public with vital skills through immersive lessons and realistic simulations, fostering knowledge and confidence to improve societal efficiency. Hands-on learning experiences aim to create a more prepared and resilient community.
 
-## Device Required
+## Devices Required
 1. Laptop that is able to run Unity
 2. Meta Quest 3
 
