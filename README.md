@@ -17,9 +17,6 @@
 7. Black and White Achievements - DUCT GAMES
 8. Candies Sprite - ONE MAN LAB
 
-## Online Resources that we have referred to
+## Online Youtube Resources that we have referred to
 Unity Change Scene with Button - Easiest Method by Unitips
-https://www.youtube.com/watch?v=zQH7RRb3CnY&t=354s
-
 Learn Unity while Making a Game - Memory Game Beginner Project - Code and Assets Link Description by Mr. Kaiser
-https://www.youtube.com/watch?v=1vVdCXjXja4&t=185s
